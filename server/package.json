@@ -13,7 +13,11 @@
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
-    "mongodb": "^4.4.0"
+    "mongodb": "^4.4.0",
+
+     
+    "swagger-jsdoc": "^3.4.0",
+    "swagger-ui-express": "^4.0.7"
   },
   "devDependencies": {
     "@types/cors": "^2.8.12",
